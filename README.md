@@ -1,4 +1,4 @@
-# Capstone Project: 실시간 영어회화 AI Agent
+# Capstone Project: 실시간 영어회화 AI Agent
 
 ## 🌐 프로젝트 개요
 이 프로젝트는 4학년 1학기 캡스톤 디자인 수업의 일환으로 개발된 "실시간 영어 회화를 위한 AI Agent"입니다. Retrieval-Augmented Generation (RAG) 파이프라인을 기반으로 하며, 사용자에게 실시간 영어 회화 환경을 제공하는 것을 목표로 합니다.
