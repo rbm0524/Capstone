@@ -1,0 +1,30 @@
+# Python 관련 파일 및 디렉토리
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# 가상 환경 (Virtual Environment)
+.venv/
+venv/
+
+# 환경 변수 파일
+.env
+
+# 운영체제 관련 파일
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE 관련 파일
+.vscode/ # VS Code 설정 파일
+.idea/   # IntelliJ / PyCharm 설정 파일
+
+# 로그 파일
+*.log
+
+# 빌드 및 배포 관련
+dist/
+build/
+
+# nohup 로그
+nohup.out
