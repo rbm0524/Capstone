@@ -34,6 +34,14 @@ app/main.py를 통해 서버가 실행됩니다.
 RAG 디렉토리 내의 코드를 통해 VectorDB를 구성하고 데이터를 준비합니다.
 dataset 디렉토리의 내용을 사용하여 언어 모델 파인튜닝 환경을 설정할 수 있습니다.
 
+## Workflow
+<img width="1506" height="846" alt="image" src="https://github.com/user-attachments/assets/c730452f-c777-4c82-a72d-bcdfb8678af4" />
+
+## loss
+<img width="1106" height="668" alt="image" src="https://github.com/user-attachments/assets/33d8aabb-597d-46a2-b565-069128b11704" />
+
+
+
 ## 응답 확인
 --- 기본 모델 및 토크나이저 로드 완료 ---
 
